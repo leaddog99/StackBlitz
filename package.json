@@ -1,0 +1,27 @@
+{
+  "name": "blrm1i--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "21.2.9",
+    "@syncfusion/ej2-buttons": "21.2.10",
+    "@syncfusion/ej2-data": "21.2.9",
+    "@syncfusion/ej2-inputs": "21.2.9",
+    "@syncfusion/ej2-lists": "21.2.9",
+    "@syncfusion/ej2-popups": "21.2.10",
+    "@syncfusion/ej2-navigations": "21.2.9",
+    "@types/crossroads": "0.0.28",
+    "@types/signals": "0.0.16",
+    "@types/moment-timezone": "0.5.30",
+    "@types/hasher": "0.0.27",
+    "fuse.js": "3.6.1",
+    "marked": "0.3.19",
+    "codemirror": "5.65.13",
+    "crossroads": "0.12.2",
+    "@types/marked": "0.3.0",
+    "@types/codemirror": "0.0.56",
+    "@types/es6-promise": "0.0.28",
+    "hasher": "1.2.0",
+    "moment-timezone": "0.5.43"
+  }
+}
